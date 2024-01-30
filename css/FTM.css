@@ -12238,6 +12238,14 @@ pre .code {
 .my-float{
 	margin-top:16px;
 }
+
+ #more {display: none;}
+
+ .myBtn, .myBtn1{ 
+  background-color: #fff;
+  border: none;
+ }
+ 
 /*!
 =========================================================
 * FTM Landing page
